@@ -34,7 +34,7 @@ bot.on('ready', () => {
         bot.user.setGame('My prefix is >');
 });
 
-bot.login('MzI1MjE3ODY1Njc2MzU3NjM0.DCVCSg.IZJZvc899N40i_NwiWgVE6ufOFk', output);
+bot.login('BOT_TOKEN', output);
 
 function output(error, token) {
         if (error) {
