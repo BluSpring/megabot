@@ -1,0 +1,14 @@
+{
+  "name": "megabot",
+  "version": "0.1.1",
+  "description": "A bot for the Mega Collab with Dragons and Blu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
